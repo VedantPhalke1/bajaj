@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\SqlSolutionService.class
+com\example\demo\WebhookResponse.class
+com\example\demo\AppConfig.class
+com\example\demo\WebhookRequest.class
+com\example\demo\SolutionRequest.class
